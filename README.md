@@ -1,4 +1,4 @@
-# ISL MCLOUD WRAPPER
+# PYTHON  MCLOUD WORKER
 
 Wrapper written in Cython for the C-API from MCLOUD
 [link to Git repository](https://github.com/ELITR/pv-platform-sample-connector)
@@ -28,8 +28,8 @@ the container:
 root@db3872174e68:/home/isl_mcloud_wrapper/src/src# 
 ```
 ### Usage
-You can test an exemplary client implementation by import Client.so and executing the run method:
+You can test an exemplary woker  implemetation by:
 ````
 python3 python_worker.py
 
-
+````
