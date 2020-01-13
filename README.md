@@ -30,16 +30,6 @@ root@db3872174e68:/home/isl_mcloud_wrapper/src/src#
 ### Usage
 You can test an exemplary client implementation by import Client.so and executing the run method:
 ````
-root@db3872174e68:/home/isl_mcloud_wrapper/src/src# python3
-Python 3.6.7 (default, Nov 29 2019, 11:32:17) 
-[GCC 8.2.0] on linux
-Type "help", "copyright", "credits" or "license" for more information.
->>> from Client import run
->>> run()
-
-````
+python3 python_worker.py
 
 
-## Authors
-
-* **Siyar Yikmis** 
